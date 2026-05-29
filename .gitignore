@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+src/scss/*.css
+src/scss/*.map
+
+.DS_Store
+*.log
+.env
